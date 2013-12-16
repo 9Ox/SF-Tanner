@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package scripts.awesometanner.actions;
+package scripts.sftanner.actions;
 
 import java.util.HashMap;
 import org.tribot.api.General;

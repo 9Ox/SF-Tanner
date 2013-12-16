@@ -1,4 +1,4 @@
-package scripts.awesometanner.actions;
+package scripts.sftanner.actions;
 
 import java.util.Arrays;
 import java.util.HashMap;

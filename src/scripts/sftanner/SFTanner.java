@@ -1,4 +1,4 @@
-package scripts.awesometanner;
+package scripts.sftanner;
 
 import java.awt.Color;
 import java.awt.EventQueue;

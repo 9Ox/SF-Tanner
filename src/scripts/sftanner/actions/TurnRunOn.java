@@ -1,4 +1,4 @@
-package scripts.awesometanner.actions;
+package scripts.sftanner.actions;
 
 import java.util.HashMap;
 import org.tribot.api2007.Game;
